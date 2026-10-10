@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Database & Local Audio
+scams.db
+warning_tamil.mp3
+
+# Python cache & virtual environment
+__pycache__/
+*.pyc
+venv/
+.venv/
